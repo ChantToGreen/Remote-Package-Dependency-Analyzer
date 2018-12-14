@@ -1,0 +1,15 @@
+Strong connected component result for request: req3
+
+
+
+SCC #1: TestTypeAnaylyzer\Test\Element.cs,
+SCC #2: TestTypeAnaylyzer\ScopeStack.cs,
+SCC #3: TestTypeAnaylyzer\TypeTable.cs,
+SCC #4: TestTypeAnaylyzer\CsGraph.cs,
+SCC #5: TestTypeAnaylyzer\Test\inner\ITokenCollection.cs,
+SCC #6: TestTypeAnaylyzer\Test\inner\Parser.cs, TestTypeAnaylyzer\Test\inner\RulesAndActions.cs,
+SCC #7: TestTypeAnaylyzer\Toker.cs,
+SCC #8: TestTypeAnaylyzer\Semi.cs,
+SCC #9: TestTypeAnaylyzer\TypeAnalysis.cs,
+SCC #10: TestTypeAnaylyzer\Test\DepAnalysis.cs,
+SCC #11: TestTypeAnaylyzer\Test\FileMgr.cs,

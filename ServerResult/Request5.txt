@@ -1,0 +1,337 @@
+Type information result for Request5
+
+Directory root: ..\..\..\ServerRep
+
+
+Type name: StringExt
+Name space: CodeAnalysis   File: ServerRep\sub1\sub1sub\Display.cs
+Name space: CodeAnalysis   File: ServerRep\sub3\Display.cs
+===============================================================================
+
+
+Type name: Display
+Name space: CodeAnalysis   File: ServerRep\sub1\sub1sub\Display.cs
+Name space: CodeAnalysis   File: ServerRep\sub3\Display.cs
+===============================================================================
+
+
+Type name: CsEdge
+Name space: CsGraph   File: ServerRep\TestTypeAnaylyzer\CsGraph.cs
+===============================================================================
+
+
+Type name: CsNode
+Name space: CsGraph   File: ServerRep\TestTypeAnaylyzer\CsGraph.cs
+===============================================================================
+
+
+Type name: Operation
+Name space: CsGraph   File: ServerRep\TestTypeAnaylyzer\CsGraph.cs
+===============================================================================
+
+
+Type name: CsGraph
+Name space: CsGraph   File: ServerRep\TestTypeAnaylyzer\CsGraph.cs
+===============================================================================
+
+
+Type name: demoOperation
+Name space: CsGraph   File: ServerRep\TestTypeAnaylyzer\CsGraph.cs
+===============================================================================
+
+
+Type name: Test
+Name space: CsGraph   File: ServerRep\TestTypeAnaylyzer\CsGraph.cs
+Name space: CodeAnalysis   File: ServerRep\TestTypeAnaylyzer\ScopeStack.cs
+===============================================================================
+
+
+Type name: ScopeStack
+Name space: CodeAnalysis   File: ServerRep\TestTypeAnaylyzer\ScopeStack.cs
+===============================================================================
+
+
+Type name: Test.Elem
+Name space: CodeAnalysis   File: ServerRep\TestTypeAnaylyzer\ScopeStack.cs
+===============================================================================
+
+
+Type name: Factory
+Name space: Lexer   File: ServerRep\TestTypeAnaylyzer\Semi.cs
+===============================================================================
+
+
+Type name: Semi
+Name space: Lexer   File: ServerRep\TestTypeAnaylyzer\Semi.cs
+===============================================================================
+
+
+Type name: TestSemi
+Name space: Lexer   File: ServerRep\TestTypeAnaylyzer\Semi.cs
+===============================================================================
+
+
+Type name: ITokenSource
+Name space: Lexer   File: ServerRep\TestTypeAnaylyzer\Toker.cs
+===============================================================================
+
+
+Type name: ITokenState
+Name space: Lexer   File: ServerRep\TestTypeAnaylyzer\Toker.cs
+===============================================================================
+
+
+Type name: Toker
+Name space: Lexer   File: ServerRep\TestTypeAnaylyzer\Toker.cs
+===============================================================================
+
+
+Type name: TokenContext
+Name space: Lexer   File: ServerRep\TestTypeAnaylyzer\Toker.cs
+===============================================================================
+
+
+Type name: TokenState
+Name space: Lexer   File: ServerRep\TestTypeAnaylyzer\Toker.cs
+===============================================================================
+
+
+Type name: WhiteSpaceState
+Name space: Lexer   File: ServerRep\TestTypeAnaylyzer\Toker.cs
+===============================================================================
+
+
+Type name: NewLineState
+Name space: Lexer   File: ServerRep\TestTypeAnaylyzer\Toker.cs
+===============================================================================
+
+
+Type name: AlphaNumState
+Name space: Lexer   File: ServerRep\TestTypeAnaylyzer\Toker.cs
+===============================================================================
+
+
+Type name: SingleLineCommentState
+Name space: Lexer   File: ServerRep\TestTypeAnaylyzer\Toker.cs
+===============================================================================
+
+
+Type name: MultiLineCommentState
+Name space: Lexer   File: ServerRep\TestTypeAnaylyzer\Toker.cs
+===============================================================================
+
+
+Type name: SingleQuoteState
+Name space: Lexer   File: ServerRep\TestTypeAnaylyzer\Toker.cs
+===============================================================================
+
+
+Type name: DoubleQuoteState
+Name space: Lexer   File: ServerRep\TestTypeAnaylyzer\Toker.cs
+===============================================================================
+
+
+Type name: PunctuationState
+Name space: Lexer   File: ServerRep\TestTypeAnaylyzer\Toker.cs
+===============================================================================
+
+
+Type name: TokenSourceFile
+Name space: Lexer   File: ServerRep\TestTypeAnaylyzer\Toker.cs
+===============================================================================
+
+
+Type name: DemoToker
+Name space: Lexer   File: ServerRep\TestTypeAnaylyzer\Toker.cs
+===============================================================================
+
+
+Type name: TypeAnalyzer
+Name space: TypeAnalysis   File: ServerRep\TestTypeAnaylyzer\TypeAnalysis.cs
+===============================================================================
+
+
+Type name: TypeInfo
+Name space: TypeFile   File: ServerRep\TestTypeAnaylyzer\TypeTable.cs
+===============================================================================
+
+
+Type name: TypeTable
+Name space: TypeFile   File: ServerRep\TestTypeAnaylyzer\TypeTable.cs
+===============================================================================
+
+
+Type name: DepAnalysis
+Name space: DependencyAnalysis   File: ServerRep\TestTypeAnaylyzer\Test\DepAnalysis.cs
+===============================================================================
+
+
+Type name: Elem
+Name space: CodeAnalysis   File: ServerRep\TestTypeAnaylyzer\Test\Element.cs
+===============================================================================
+
+
+Type name: Navigate.newDirHandler
+Name space: FileUtilities   File: ServerRep\TestTypeAnaylyzer\Test\FileMgr.cs
+===============================================================================
+
+
+Type name: Navigate.newFileHandler
+Name space: FileUtilities   File: ServerRep\TestTypeAnaylyzer\Test\FileMgr.cs
+===============================================================================
+
+
+Type name: Navigate
+Name space: FileUtilities   File: ServerRep\TestTypeAnaylyzer\Test\FileMgr.cs
+===============================================================================
+
+
+Type name: ITokenCollection
+Name space: Lexer   File: ServerRep\TestTypeAnaylyzer\Test\inner\ITokenCollection.cs
+===============================================================================
+
+
+Type name: Parser
+Name space: CodeAnalysis   File: ServerRep\TestTypeAnaylyzer\Test\inner\Parser.cs
+===============================================================================
+
+
+Type name: TestParser
+Name space: CodeAnalysis   File: ServerRep\TestTypeAnaylyzer\Test\inner\Parser.cs
+===============================================================================
+
+
+Type name: Repository
+Name space: CodeAnalysis   File: ServerRep\TestTypeAnaylyzer\Test\inner\RulesAndActions.cs
+===============================================================================
+
+
+Type name: PushStack
+Name space: CodeAnalysis   File: ServerRep\TestTypeAnaylyzer\Test\inner\RulesAndActions.cs
+===============================================================================
+
+
+Type name: SaveAll
+Name space: CodeAnalysis   File: ServerRep\TestTypeAnaylyzer\Test\inner\RulesAndActions.cs
+===============================================================================
+
+
+Type name: CollectNamespace
+Name space: CodeAnalysis   File: ServerRep\TestTypeAnaylyzer\Test\inner\RulesAndActions.cs
+===============================================================================
+
+
+Type name: CollectAliases
+Name space: CodeAnalysis   File: ServerRep\TestTypeAnaylyzer\Test\inner\RulesAndActions.cs
+===============================================================================
+
+
+Type name: PopStack
+Name space: CodeAnalysis   File: ServerRep\TestTypeAnaylyzer\Test\inner\RulesAndActions.cs
+===============================================================================
+
+
+Type name: PrintFunction
+Name space: CodeAnalysis   File: ServerRep\TestTypeAnaylyzer\Test\inner\RulesAndActions.cs
+===============================================================================
+
+
+Type name: CollectMember
+Name space: CodeAnalysis   File: ServerRep\TestTypeAnaylyzer\Test\inner\RulesAndActions.cs
+===============================================================================
+
+
+Type name: PrintSemi
+Name space: CodeAnalysis   File: ServerRep\TestTypeAnaylyzer\Test\inner\RulesAndActions.cs
+===============================================================================
+
+
+Type name: CollectReturn
+Name space: CodeAnalysis   File: ServerRep\TestTypeAnaylyzer\Test\inner\RulesAndActions.cs
+===============================================================================
+
+
+Type name: CollectNew
+Name space: CodeAnalysis   File: ServerRep\TestTypeAnaylyzer\Test\inner\RulesAndActions.cs
+===============================================================================
+
+
+Type name: SaveDeclar
+Name space: CodeAnalysis   File: ServerRep\TestTypeAnaylyzer\Test\inner\RulesAndActions.cs
+===============================================================================
+
+
+Type name: DetectNamespace
+Name space: CodeAnalysis   File: ServerRep\TestTypeAnaylyzer\Test\inner\RulesAndActions.cs
+===============================================================================
+
+
+Type name: DetectAlias
+Name space: CodeAnalysis   File: ServerRep\TestTypeAnaylyzer\Test\inner\RulesAndActions.cs
+===============================================================================
+
+
+Type name: DetectType
+Name space: CodeAnalysis   File: ServerRep\TestTypeAnaylyzer\Test\inner\RulesAndActions.cs
+===============================================================================
+
+
+Type name: DetectDelegate
+Name space: CodeAnalysis   File: ServerRep\TestTypeAnaylyzer\Test\inner\RulesAndActions.cs
+===============================================================================
+
+
+Type name: DetectFunction
+Name space: CodeAnalysis   File: ServerRep\TestTypeAnaylyzer\Test\inner\RulesAndActions.cs
+===============================================================================
+
+
+Type name: DetectAnonymousScope
+Name space: CodeAnalysis   File: ServerRep\TestTypeAnaylyzer\Test\inner\RulesAndActions.cs
+===============================================================================
+
+
+Type name: DetectPubDeclar
+Name space: CodeAnalysis   File: ServerRep\TestTypeAnaylyzer\Test\inner\RulesAndActions.cs
+===============================================================================
+
+
+Type name: DetectUsingNamespace
+Name space: CodeAnalysis   File: ServerRep\TestTypeAnaylyzer\Test\inner\RulesAndActions.cs
+===============================================================================
+
+
+Type name: DetectLeavingScope
+Name space: CodeAnalysis   File: ServerRep\TestTypeAnaylyzer\Test\inner\RulesAndActions.cs
+===============================================================================
+
+
+Type name: DetectNewOperator
+Name space: CodeAnalysis   File: ServerRep\TestTypeAnaylyzer\Test\inner\RulesAndActions.cs
+===============================================================================
+
+
+Type name: DetectProperty
+Name space: CodeAnalysis   File: ServerRep\TestTypeAnaylyzer\Test\inner\RulesAndActions.cs
+===============================================================================
+
+
+Type name: DetectEnd
+Name space: CodeAnalysis   File: ServerRep\TestTypeAnaylyzer\Test\inner\RulesAndActions.cs
+===============================================================================
+
+
+Type name: DetectInheritance
+Name space: CodeAnalysis   File: ServerRep\TestTypeAnaylyzer\Test\inner\RulesAndActions.cs
+===============================================================================
+
+
+Type name: BuildDependencyAnalyzer
+Name space: CodeAnalysis   File: ServerRep\TestTypeAnaylyzer\Test\inner\RulesAndActions.cs
+===============================================================================
+
+
+Type name: BuildTypeAnalyzer
+Name space: CodeAnalysis   File: ServerRep\TestTypeAnaylyzer\Test\inner\RulesAndActions.cs
+===============================================================================
+

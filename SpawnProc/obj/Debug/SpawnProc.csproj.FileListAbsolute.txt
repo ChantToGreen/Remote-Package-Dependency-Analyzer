@@ -1,0 +1,14 @@
+C:\Users\g3ing\OneDrive\桌面\CSE681\spawnProc\SpawnProc\bin\Debug\SpawnProc.exe.config
+C:\Users\g3ing\OneDrive\桌面\CSE681\spawnProc\SpawnProc\bin\Debug\SpawnProc.exe
+C:\Users\g3ing\OneDrive\桌面\CSE681\spawnProc\SpawnProc\bin\Debug\SpawnProc.pdb
+C:\Users\g3ing\OneDrive\桌面\CSE681\spawnProc\SpawnProc\obj\Debug\SpawnProc.csprojAssemblyReference.cache
+C:\Users\g3ing\OneDrive\桌面\CSE681\spawnProc\SpawnProc\obj\Debug\SpawnProc.csproj.CoreCompileInputs.cache
+C:\Users\g3ing\OneDrive\桌面\CSE681\spawnProc\SpawnProc\obj\Debug\SpawnProc.exe
+C:\Users\g3ing\OneDrive\桌面\CSE681\spawnProc\SpawnProc\obj\Debug\SpawnProc.pdb
+C:\Users\g3ing\OneDrive\桌面\CsMessagePassing\SpawnProc\bin\Debug\SpawnProc.pdb
+C:\Users\g3ing\OneDrive\桌面\CsMessagePassing\SpawnProc\obj\Debug\SpawnProc.csprojAssemblyReference.cache
+C:\Users\g3ing\OneDrive\桌面\CsMessagePassing\SpawnProc\obj\Debug\SpawnProc.csproj.CoreCompileInputs.cache
+C:\Users\g3ing\OneDrive\桌面\CsMessagePassing\SpawnProc\obj\Debug\SpawnProc.pdb
+C:\Users\g3ing\OneDrive\桌面\CsMessagePassing\SpawnProc\bin\Debug\SpawnProc.dll.config
+C:\Users\g3ing\OneDrive\桌面\CsMessagePassing\SpawnProc\bin\Debug\SpawnProc.dll
+C:\Users\g3ing\OneDrive\桌面\CsMessagePassing\SpawnProc\obj\Debug\SpawnProc.dll

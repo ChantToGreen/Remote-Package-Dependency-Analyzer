@@ -1,0 +1,51 @@
+Dependency information result for Request2
+Directory root: ..\..\..\ServerRep\TestTypeAnaylyzer
+
+File: RulesAndActions.cs, Children: 
+ Element.cs,  ScopeStack.cs,  TypeTable.cs,  CsGraph.cs,  ITokenCollection.cs,  Parser.cs, 
+==================================================================================
+
+File: Element.cs, Children: 
+This package has no children
+==================================================================================
+
+File: ScopeStack.cs, Children: 
+ Element.cs, 
+==================================================================================
+
+File: TypeTable.cs, Children: 
+This package has no children
+==================================================================================
+
+File: CsGraph.cs, Children: 
+This package has no children
+==================================================================================
+
+File: ITokenCollection.cs, Children: 
+This package has no children
+==================================================================================
+
+File: Parser.cs, Children: 
+ TypeTable.cs,  RulesAndActions.cs, 
+==================================================================================
+
+File: Semi.cs, Children: 
+ Toker.cs,  ITokenCollection.cs, 
+==================================================================================
+
+File: Toker.cs, Children: 
+This package has no children
+==================================================================================
+
+File: DepAnalysis.cs, Children: 
+ TypeAnalysis.cs,  Semi.cs,  RulesAndActions.cs, 
+==================================================================================
+
+File: TypeAnalysis.cs, Children: 
+This package has no children
+==================================================================================
+
+File: FileMgr.cs, Children: 
+This package has no children
+==================================================================================
+

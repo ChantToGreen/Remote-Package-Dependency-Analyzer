@@ -1,0 +1,25 @@
+Dependency information result for request: req2
+File: TestTypeAnaylyzer\Test\inner\RulesAndActions.cs, Children: 
+ TestTypeAnaylyzer\Test\Element.cs,  TestTypeAnaylyzer\ScopeStack.cs,  TestTypeAnaylyzer\TypeTable.cs,  TestTypeAnaylyzer\CsGraph.cs,  TestTypeAnaylyzer\Test\inner\ITokenCollection.cs,  TestTypeAnaylyzer\Test\inner\Parser.cs, 
+File: TestTypeAnaylyzer\Test\Element.cs, Children: 
+This package has no children
+File: TestTypeAnaylyzer\ScopeStack.cs, Children: 
+ TestTypeAnaylyzer\Test\Element.cs, 
+File: TestTypeAnaylyzer\TypeTable.cs, Children: 
+This package has no children
+File: TestTypeAnaylyzer\CsGraph.cs, Children: 
+This package has no children
+File: TestTypeAnaylyzer\Test\inner\ITokenCollection.cs, Children: 
+This package has no children
+File: TestTypeAnaylyzer\Test\inner\Parser.cs, Children: 
+ TestTypeAnaylyzer\TypeTable.cs,  TestTypeAnaylyzer\Test\inner\RulesAndActions.cs, 
+File: TestTypeAnaylyzer\Semi.cs, Children: 
+ TestTypeAnaylyzer\Toker.cs,  TestTypeAnaylyzer\Test\inner\ITokenCollection.cs, 
+File: TestTypeAnaylyzer\Toker.cs, Children: 
+This package has no children
+File: TestTypeAnaylyzer\Test\DepAnalysis.cs, Children: 
+ TestTypeAnaylyzer\TypeAnalysis.cs,  TestTypeAnaylyzer\Semi.cs,  TestTypeAnaylyzer\Test\inner\RulesAndActions.cs, 
+File: TestTypeAnaylyzer\TypeAnalysis.cs, Children: 
+This package has no children
+File: TestTypeAnaylyzer\Test\FileMgr.cs, Children: 
+This package has no children

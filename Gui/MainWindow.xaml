@@ -1,0 +1,74 @@
+﻿<Window x:Class="Client.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Client"
+        mc:Ignorable="d"
+        Closed="Window_Closed"
+        
+        Title="Client" Height="600" Width="800" >
+    <Grid>
+        <TabControl>
+            <TabItem Header="Set Directory">
+                <DockPanel>
+                    <StackPanel Orientation="Horizontal" DockPanel.Dock="Top">
+                        <Label>Target Directory:</Label>
+                        <Label Width="20"></Label>
+                        <TextBlock x:Name="TargetPath" VerticalAlignment="Center"></TextBlock>
+                    </StackPanel>
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="40"></RowDefinition>
+                            <RowDefinition Height="28"></RowDefinition>
+                            <RowDefinition Height="180"></RowDefinition>
+                            <RowDefinition Height="28"></RowDefinition>
+                            <RowDefinition Height="*"></RowDefinition>
+                            
+                        </Grid.RowDefinitions>
+                        <StackPanel  Grid.Row="0" Orientation="Horizontal" DockPanel.Dock="Top">
+                            <Button Name="TypeAnalysis" Margin="5" Width="85" Height="30" Click="TypeAnalysis_Click">Type Analysis</Button>
+                            <Button Name="DepAnalysis"  Margin="5" Width="130" Height="30" Click="DepAnalysis_Click">Dependency Analysis</Button>
+                            <Button Name="StrongConnectedComponent" Margin="5,0,5,5" Width="185" Height="30" Click="StrongConnectedComponent_Click" VerticalAlignment="Bottom">Strong Connected Component</Button>
+                                
+                        </StackPanel>
+                        <StackPanel  Grid.Row="1" Orientation="Horizontal" DockPanel.Dock="Top">
+                            <Label>Choose Directory to Analyze</Label>
+                            <Button x:Name="Open" Click="Open_Click" Margin="10,0,10,0" Width="40" >Open</Button>
+                            <Button x:Name="TopDir" Width="40" Margin="10,0,0,0" Click="Top_Click">Top</Button>
+                        </StackPanel>
+                        <ListBox
+                                 ScrollViewer.VerticalScrollBarVisibility="Auto"
+                                 Margin="5" Grid.Row="2" x:Name="Dirs" MouseDoubleClick="Dirs_MouseDoubleClick" MouseLeftButtonUp="Dirs_MouseLeftButtonUp" ></ListBox>
+                        <StackPanel  Grid.Row="3" Orientation="Horizontal" DockPanel.Dock="Top">
+                            <Label>Files</Label>
+                        </StackPanel>
+                        <Grid Grid.Row="4">
+                            <StackPanel>
+                                <ScrollViewer   Height="190" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto" VerticalAlignment="Top">
+                                    <TextBlock Margin="5"  x:Name="Files">
+                                    </TextBlock>
+                                </ScrollViewer>
+                                <GridSplitter HorizontalAlignment="Stretch" Height="5" Background="DarkGray" ></GridSplitter>
+                                <Button Width="120" Height="30" Margin="10" Click="Button_Click">Shut Down Server</Button>
+                            </StackPanel>
+                        </Grid>
+                    </Grid>
+                </DockPanel>
+            </TabItem>
+            <TabItem Header="History">
+                <Grid>
+                    <StackPanel >
+                        <ListBox ScrollViewer.VerticalScrollBarVisibility="Auto"
+                            Margin="10" Height="450" x:Name="ResultList" MouseDoubleClick="ResultList_MouseDoubleClick">
+                        </ListBox>
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                            <Button Name="OpenHis" Height="30" Width="56" Margin="20" Click="OpenHis_Click">Open</Button>
+                            <Button Name="DeleteHis"  Height="30" Width="56" Margin="20" Click="DeleteHis_Click">Delete</Button>
+                        </StackPanel>
+                    </StackPanel>
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

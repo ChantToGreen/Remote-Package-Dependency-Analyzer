@@ -1,0 +1,49 @@
+C:\Users\g3ing\OneDrive\桌面\CSE681\project2\FileMgr\bin\Debug\Navigate.dll
+C:\Users\g3ing\OneDrive\桌面\CSE681\project2\FileMgr\bin\Debug\Navigate.pdb
+C:\Users\g3ing\OneDrive\桌面\CSE681\project2\FileMgr\obj\Debug\FileMgr.csprojAssemblyReference.cache
+C:\Users\g3ing\OneDrive\桌面\CSE681\project2\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+C:\Users\g3ing\OneDrive\桌面\CSE681\project2\FileMgr\obj\Debug\Navigate.dll
+C:\Users\g3ing\OneDrive\桌面\CSE681\project2\FileMgr\obj\Debug\Navigate.pdb
+C:\Users\g3ing\OneDrive\桌面\Project2\FileMgr\bin\Debug\Navigate.dll
+C:\Users\g3ing\OneDrive\桌面\Project2\FileMgr\bin\Debug\Navigate.pdb
+C:\Users\g3ing\OneDrive\桌面\Project2\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+C:\Users\g3ing\OneDrive\桌面\Project2\FileMgr\obj\Debug\Navigate.dll
+C:\Users\g3ing\OneDrive\桌面\Project2\FileMgr\obj\Debug\Navigate.pdb
+C:\Users\Yilin Cui\Desktop\Project3 YilinCui\Project3 YilinCui\FileMgr\bin\Debug\Navigate.dll
+C:\Users\Yilin Cui\Desktop\Project3 YilinCui\Project3 YilinCui\FileMgr\bin\Debug\Navigate.pdb
+C:\Users\Yilin Cui\Desktop\Project3 YilinCui\Project3 YilinCui\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+C:\Users\Yilin Cui\Desktop\Project3 YilinCui\Project3 YilinCui\FileMgr\obj\Debug\Navigate.dll
+C:\Users\Yilin Cui\Desktop\Project3 YilinCui\Project3 YilinCui\FileMgr\obj\Debug\Navigate.pdb
+C:\Users\g3ing\OneDrive\桌面\CSE681\Project3 YilinCui\Project3 YilinCui\FileMgr\bin\Debug\Navigate.dll
+C:\Users\g3ing\OneDrive\桌面\CSE681\Project3 YilinCui\Project3 YilinCui\FileMgr\bin\Debug\Navigate.pdb
+C:\Users\g3ing\OneDrive\桌面\CSE681\Project3 YilinCui\Project3 YilinCui\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+C:\Users\g3ing\OneDrive\桌面\CSE681\Project3 YilinCui\Project3 YilinCui\FileMgr\obj\Debug\Navigate.dll
+C:\Users\g3ing\OneDrive\桌面\CSE681\Project3 YilinCui\Project3 YilinCui\FileMgr\obj\Debug\Navigate.pdb
+C:\Users\Yilin Cui\Desktop\CsMessagePassing\FileMgr\bin\Debug\Navigate.dll
+C:\Users\Yilin Cui\Desktop\CsMessagePassing\FileMgr\bin\Debug\Navigate.pdb
+C:\Users\Yilin Cui\Desktop\CsMessagePassing\FileMgr\obj\Debug\FileMgr.csprojAssemblyReference.cache
+C:\Users\Yilin Cui\Desktop\CsMessagePassing\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+C:\Users\Yilin Cui\Desktop\CsMessagePassing\FileMgr\obj\Debug\Navigate.dll
+C:\Users\Yilin Cui\Desktop\CsMessagePassing\FileMgr\obj\Debug\Navigate.pdb
+C:\CsMessagePassing\FileMgr\bin\Debug\Navigate.dll
+C:\CsMessagePassing\FileMgr\bin\Debug\Navigate.pdb
+C:\CsMessagePassing\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+C:\CsMessagePassing\FileMgr\obj\Debug\Navigate.dll
+C:\CsMessagePassing\FileMgr\obj\Debug\Navigate.pdb
+C:\Remote Dep Analyzer\CsMessagePassing\FileMgr\bin\Debug\Navigate.dll
+C:\Remote Dep Analyzer\CsMessagePassing\FileMgr\bin\Debug\Navigate.pdb
+C:\Remote Dep Analyzer\CsMessagePassing\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+C:\Remote Dep Analyzer\CsMessagePassing\FileMgr\obj\Debug\Navigate.dll
+C:\Remote Dep Analyzer\CsMessagePassing\FileMgr\obj\Debug\Navigate.pdb
+C:\Remote Dep Analyzer\CsMessagePassing\FileMgr\obj\Debug\FileMgr.csprojAssemblyReference.cache
+C:\Remote Dep Analyzer\RemoteDepAnalyzer\FileMgr\bin\Debug\Navigate.dll
+C:\Remote Dep Analyzer\RemoteDepAnalyzer\FileMgr\bin\Debug\Navigate.pdb
+C:\Remote Dep Analyzer\RemoteDepAnalyzer\FileMgr\obj\Debug\FileMgr.csprojAssemblyReference.cache
+C:\Remote Dep Analyzer\RemoteDepAnalyzer\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+C:\Remote Dep Analyzer\RemoteDepAnalyzer\FileMgr\obj\Debug\Navigate.dll
+C:\Remote Dep Analyzer\RemoteDepAnalyzer\FileMgr\obj\Debug\Navigate.pdb
+C:\Users\Yilin Cui\Desktop\RemoteDepAnalyzer\RemoteDepAnalyzer\FileMgr\bin\Debug\Navigate.dll
+C:\Users\Yilin Cui\Desktop\RemoteDepAnalyzer\RemoteDepAnalyzer\FileMgr\bin\Debug\Navigate.pdb
+C:\Users\Yilin Cui\Desktop\RemoteDepAnalyzer\RemoteDepAnalyzer\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+C:\Users\Yilin Cui\Desktop\RemoteDepAnalyzer\RemoteDepAnalyzer\FileMgr\obj\Debug\Navigate.dll
+C:\Users\Yilin Cui\Desktop\RemoteDepAnalyzer\RemoteDepAnalyzer\FileMgr\obj\Debug\Navigate.pdb

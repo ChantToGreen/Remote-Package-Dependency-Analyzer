@@ -1,0 +1,42 @@
+C:\Users\Yilin Cui\Desktop\CsMessagePassing\DummyClient\bin\Debug\DummyClient.exe.config
+C:\Users\Yilin Cui\Desktop\CsMessagePassing\DummyClient\bin\Debug\DummyClient.exe
+C:\Users\Yilin Cui\Desktop\CsMessagePassing\DummyClient\bin\Debug\DummyClient.pdb
+C:\Users\Yilin Cui\Desktop\CsMessagePassing\DummyClient\bin\Debug\IService.dll
+C:\Users\Yilin Cui\Desktop\CsMessagePassing\DummyClient\bin\Debug\TestUtilities.exe
+C:\Users\Yilin Cui\Desktop\CsMessagePassing\DummyClient\bin\Debug\IService.pdb
+C:\Users\Yilin Cui\Desktop\CsMessagePassing\DummyClient\bin\Debug\IService.dll.config
+C:\Users\Yilin Cui\Desktop\CsMessagePassing\DummyClient\bin\Debug\TestUtilities.pdb
+C:\Users\Yilin Cui\Desktop\CsMessagePassing\DummyClient\bin\Debug\TestUtilities.exe.config
+C:\Users\Yilin Cui\Desktop\CsMessagePassing\DummyClient\obj\Debug\DummyClient.csprojAssemblyReference.cache
+C:\Users\Yilin Cui\Desktop\CsMessagePassing\DummyClient\obj\Debug\DummyClient.csproj.CoreCompileInputs.cache
+C:\Users\Yilin Cui\Desktop\CsMessagePassing\DummyClient\obj\Debug\DummyClient.csproj.CopyComplete
+C:\Users\Yilin Cui\Desktop\CsMessagePassing\DummyClient\obj\Debug\DummyClient.exe
+C:\Users\Yilin Cui\Desktop\CsMessagePassing\DummyClient\obj\Debug\DummyClient.pdb
+C:\Users\g3ing\OneDrive\桌面\CsMessagePassing\DummyClient\bin\Debug\DummyClient.exe.config
+C:\Users\g3ing\OneDrive\桌面\CsMessagePassing\DummyClient\bin\Debug\DummyClient.exe
+C:\Users\g3ing\OneDrive\桌面\CsMessagePassing\DummyClient\bin\Debug\DummyClient.pdb
+C:\Users\g3ing\OneDrive\桌面\CsMessagePassing\DummyClient\bin\Debug\IService.dll
+C:\Users\g3ing\OneDrive\桌面\CsMessagePassing\DummyClient\bin\Debug\TestUtilities.exe
+C:\Users\g3ing\OneDrive\桌面\CsMessagePassing\DummyClient\bin\Debug\IService.pdb
+C:\Users\g3ing\OneDrive\桌面\CsMessagePassing\DummyClient\bin\Debug\IService.dll.config
+C:\Users\g3ing\OneDrive\桌面\CsMessagePassing\DummyClient\bin\Debug\TestUtilities.pdb
+C:\Users\g3ing\OneDrive\桌面\CsMessagePassing\DummyClient\bin\Debug\TestUtilities.exe.config
+C:\Users\g3ing\OneDrive\桌面\CsMessagePassing\DummyClient\obj\Debug\DummyClient.csprojAssemblyReference.cache
+C:\Users\g3ing\OneDrive\桌面\CsMessagePassing\DummyClient\obj\Debug\DummyClient.csproj.CoreCompileInputs.cache
+C:\Users\g3ing\OneDrive\桌面\CsMessagePassing\DummyClient\obj\Debug\DummyClient.csproj.CopyComplete
+C:\Users\g3ing\OneDrive\桌面\CsMessagePassing\DummyClient\obj\Debug\DummyClient.exe
+C:\Users\g3ing\OneDrive\桌面\CsMessagePassing\DummyClient\obj\Debug\DummyClient.pdb
+C:\CsMessagePassing\DummyClient\bin\Debug\DummyClient.exe.config
+C:\CsMessagePassing\DummyClient\bin\Debug\DummyClient.exe
+C:\CsMessagePassing\DummyClient\bin\Debug\DummyClient.pdb
+C:\CsMessagePassing\DummyClient\bin\Debug\IService.dll
+C:\CsMessagePassing\DummyClient\bin\Debug\TestUtilities.exe
+C:\CsMessagePassing\DummyClient\bin\Debug\IService.pdb
+C:\CsMessagePassing\DummyClient\bin\Debug\IService.dll.config
+C:\CsMessagePassing\DummyClient\bin\Debug\TestUtilities.pdb
+C:\CsMessagePassing\DummyClient\bin\Debug\TestUtilities.exe.config
+C:\CsMessagePassing\DummyClient\obj\Debug\DummyClient.csprojAssemblyReference.cache
+C:\CsMessagePassing\DummyClient\obj\Debug\DummyClient.csproj.CoreCompileInputs.cache
+C:\CsMessagePassing\DummyClient\obj\Debug\DummyClient.csproj.CopyComplete
+C:\CsMessagePassing\DummyClient\obj\Debug\DummyClient.exe
+C:\CsMessagePassing\DummyClient\obj\Debug\DummyClient.pdb

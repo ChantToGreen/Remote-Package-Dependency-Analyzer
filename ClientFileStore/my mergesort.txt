@@ -1,0 +1,57 @@
+void mymerge(vector<int> &vec, vector<int> left, vector<int> right)
+{
+	int l = 0;
+	int r = 0;
+	int i = 0;
+	while (l < left.size() && r < right.size())
+	{
+		if (left[l] < right[r])
+		{
+			vec[i] = left[l];
+			l++;
+		}
+		else
+		{
+			vec[i] = right[r];
+			r++;
+		}
+		i++;
+	}
+	while (l < left.size())
+	{
+		vec[i] = left[l];
+		l++;
+		i++;
+	}
+	while (r < right.size())
+	{
+		vec[i] = right[r];
+		r++;
+		i++;
+	}
+	cout << "vec: ";
+	for (auto item : vec)
+		cout << item << " ";
+
+}
+
+void mergesort(vector<int> &vec)
+{
+	int len = vec.size();
+	if (len < 2)
+		return;
+	int mid = len/2;
+	vector<int> left(vec.begin(),vec.begin()+mid);
+	cout << "LEFT: ";
+	for (auto item : left)
+		cout << item << " ";
+	vector<int> right(vec.begin()+mid, vec.end());
+	cout << "RIGHT: ";
+	for (auto item : right)
+		cout << item << " ";
+	cout << endl;
+	mergesort(left);
+	mergesort(right);
+	mymerge(vec, left, right);
+	cout << endl;
+}

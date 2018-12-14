@@ -1,0 +1,59 @@
+Dependency information result for DepDemonstration
+Directory root: ../../../ServerRep
+
+File: ServerRep\TestTypeAnaylyzer\Test\inner\RulesAndActions.cs, Children: 
+ ServerRep\TestTypeAnaylyzer\Test\Element.cs,  ServerRep\TestTypeAnaylyzer\ScopeStack.cs,  ServerRep\TestTypeAnaylyzer\TypeTable.cs,  ServerRep\TestTypeAnaylyzer\CsGraph.cs,  ServerRep\TestTypeAnaylyzer\Test\inner\ITokenCollection.cs,  ServerRep\TestTypeAnaylyzer\Test\inner\Parser.cs, 
+==================================================================================
+
+File: ServerRep\TestTypeAnaylyzer\Test\Element.cs, Children: 
+This package has no children
+==================================================================================
+
+File: ServerRep\TestTypeAnaylyzer\ScopeStack.cs, Children: 
+ ServerRep\TestTypeAnaylyzer\Test\Element.cs, 
+==================================================================================
+
+File: ServerRep\TestTypeAnaylyzer\TypeTable.cs, Children: 
+This package has no children
+==================================================================================
+
+File: ServerRep\TestTypeAnaylyzer\CsGraph.cs, Children: 
+This package has no children
+==================================================================================
+
+File: ServerRep\TestTypeAnaylyzer\Test\inner\ITokenCollection.cs, Children: 
+This package has no children
+==================================================================================
+
+File: ServerRep\TestTypeAnaylyzer\Test\inner\Parser.cs, Children: 
+ ServerRep\TestTypeAnaylyzer\TypeTable.cs,  ServerRep\TestTypeAnaylyzer\Test\inner\RulesAndActions.cs, 
+==================================================================================
+
+File: ServerRep\sub1\sub1sub\Display.cs, Children: 
+ ServerRep\TestTypeAnaylyzer\Test\Element.cs, 
+==================================================================================
+
+File: ServerRep\sub3\Display.cs, Children: 
+ ServerRep\TestTypeAnaylyzer\Test\Element.cs, 
+==================================================================================
+
+File: ServerRep\TestTypeAnaylyzer\Semi.cs, Children: 
+ ServerRep\TestTypeAnaylyzer\Toker.cs,  ServerRep\TestTypeAnaylyzer\Test\inner\ITokenCollection.cs, 
+==================================================================================
+
+File: ServerRep\TestTypeAnaylyzer\Toker.cs, Children: 
+This package has no children
+==================================================================================
+
+File: ServerRep\TestTypeAnaylyzer\Test\DepAnalysis.cs, Children: 
+ ServerRep\TestTypeAnaylyzer\TypeAnalysis.cs,  ServerRep\TestTypeAnaylyzer\Semi.cs,  ServerRep\TestTypeAnaylyzer\Test\inner\RulesAndActions.cs, 
+==================================================================================
+
+File: ServerRep\TestTypeAnaylyzer\TypeAnalysis.cs, Children: 
+This package has no children
+==================================================================================
+
+File: ServerRep\TestTypeAnaylyzer\Test\FileMgr.cs, Children: 
+This package has no children
+==================================================================================
+

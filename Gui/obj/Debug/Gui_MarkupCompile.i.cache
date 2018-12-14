@@ -1,0 +1,20 @@
+﻿Gui
+
+
+exe
+C#
+.cs
+C:\Remote Dep Analyzer\CsMessagePassing\Gui\obj\Debug\
+Gui
+none
+false
+DEBUG;TRACE
+C:\Remote Dep Analyzer\CsMessagePassing\Gui\App.xaml
+4462201433
+
+141069029291
+16693589582
+DeleteConfirm.xaml;FileWarning.xaml;MainWindow.xaml;AnalysisResult.xaml;
+
+False
+

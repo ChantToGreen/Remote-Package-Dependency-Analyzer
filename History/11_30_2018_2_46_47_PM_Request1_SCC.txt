@@ -1,0 +1,45 @@
+Strong connected component result for Request1
+
+Directory root: ..\..\..\ServerRep
+
+
+
+SCC #1: ServerRep\TestTypeAnaylyzer\Test\Element.cs,
+===============================================================================
+
+SCC #2: ServerRep\TestTypeAnaylyzer\ScopeStack.cs,
+===============================================================================
+
+SCC #3: ServerRep\TestTypeAnaylyzer\TypeTable.cs,
+===============================================================================
+
+SCC #4: ServerRep\TestTypeAnaylyzer\CsGraph.cs,
+===============================================================================
+
+SCC #5: ServerRep\TestTypeAnaylyzer\Test\inner\ITokenCollection.cs,
+===============================================================================
+
+SCC #6: ServerRep\TestTypeAnaylyzer\Test\inner\Parser.cs, ServerRep\TestTypeAnaylyzer\Test\inner\RulesAndActions.cs,
+===============================================================================
+
+SCC #7: ServerRep\sub1\sub1sub\Display.cs,
+===============================================================================
+
+SCC #8: ServerRep\sub3\Display.cs,
+===============================================================================
+
+SCC #9: ServerRep\TestTypeAnaylyzer\Toker.cs,
+===============================================================================
+
+SCC #10: ServerRep\TestTypeAnaylyzer\Semi.cs,
+===============================================================================
+
+SCC #11: ServerRep\TestTypeAnaylyzer\TypeAnalysis.cs,
+===============================================================================
+
+SCC #12: ServerRep\TestTypeAnaylyzer\Test\DepAnalysis.cs,
+===============================================================================
+
+SCC #13: ServerRep\TestTypeAnaylyzer\Test\FileMgr.cs,
+===============================================================================
+

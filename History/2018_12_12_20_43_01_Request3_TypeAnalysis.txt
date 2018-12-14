@@ -1,0 +1,4 @@
+Type information result for Request3
+
+Directory root: ..\..\..\ServerRep\sub2
+
