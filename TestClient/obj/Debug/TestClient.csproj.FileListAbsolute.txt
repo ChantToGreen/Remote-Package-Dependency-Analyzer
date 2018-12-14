@@ -1,0 +1,56 @@
+C:\CsMessagePassing\TestClient\obj\Debug\TestClient.csprojAssemblyReference.cache
+C:\CsMessagePassing\TestClient\obj\Debug\TestClient.csproj.CoreCompileInputs.cache
+C:\CsMessagePassing\TestClient\bin\Debug\TestClient.pdb
+C:\CsMessagePassing\TestClient\bin\Debug\IService.dll
+C:\CsMessagePassing\TestClient\bin\Debug\TestUtilities.exe
+C:\CsMessagePassing\TestClient\bin\Debug\IService.pdb
+C:\CsMessagePassing\TestClient\bin\Debug\IService.dll.config
+C:\CsMessagePassing\TestClient\bin\Debug\TestUtilities.pdb
+C:\CsMessagePassing\TestClient\bin\Debug\TestUtilities.exe.config
+C:\CsMessagePassing\TestClient\obj\Debug\TestClient.csproj.CopyComplete
+C:\CsMessagePassing\TestClient\obj\Debug\TestClient.pdb
+C:\CsMessagePassing\TestClient\bin\Debug\TestClient.dll.config
+C:\CsMessagePassing\TestClient\bin\Debug\TestClient.dll
+C:\CsMessagePassing\TestClient\obj\Debug\TestClient.dll
+C:\Remote Dep Analyzer\CsMessagePassing\TestClient\bin\Debug\TestClient.dll.config
+C:\Remote Dep Analyzer\CsMessagePassing\TestClient\bin\Debug\TestClient.dll
+C:\Remote Dep Analyzer\CsMessagePassing\TestClient\bin\Debug\TestClient.pdb
+C:\Remote Dep Analyzer\CsMessagePassing\TestClient\bin\Debug\IService.dll
+C:\Remote Dep Analyzer\CsMessagePassing\TestClient\bin\Debug\TestUtilities.exe
+C:\Remote Dep Analyzer\CsMessagePassing\TestClient\bin\Debug\IService.pdb
+C:\Remote Dep Analyzer\CsMessagePassing\TestClient\bin\Debug\IService.dll.config
+C:\Remote Dep Analyzer\CsMessagePassing\TestClient\bin\Debug\TestUtilities.pdb
+C:\Remote Dep Analyzer\CsMessagePassing\TestClient\bin\Debug\TestUtilities.exe.config
+C:\Remote Dep Analyzer\CsMessagePassing\TestClient\obj\Debug\TestClient.csprojAssemblyReference.cache
+C:\Remote Dep Analyzer\CsMessagePassing\TestClient\obj\Debug\TestClient.csproj.CoreCompileInputs.cache
+C:\Remote Dep Analyzer\CsMessagePassing\TestClient\obj\Debug\TestClient.csproj.CopyComplete
+C:\Remote Dep Analyzer\CsMessagePassing\TestClient\obj\Debug\TestClient.dll
+C:\Remote Dep Analyzer\CsMessagePassing\TestClient\obj\Debug\TestClient.pdb
+C:\Remote Dep Analyzer\RemoteDepAnalyzer\TestClient\bin\Debug\TestClient.dll.config
+C:\Remote Dep Analyzer\RemoteDepAnalyzer\TestClient\bin\Debug\TestClient.dll
+C:\Remote Dep Analyzer\RemoteDepAnalyzer\TestClient\bin\Debug\TestClient.pdb
+C:\Remote Dep Analyzer\RemoteDepAnalyzer\TestClient\bin\Debug\IService.dll
+C:\Remote Dep Analyzer\RemoteDepAnalyzer\TestClient\bin\Debug\TestUtilities.exe
+C:\Remote Dep Analyzer\RemoteDepAnalyzer\TestClient\bin\Debug\IService.pdb
+C:\Remote Dep Analyzer\RemoteDepAnalyzer\TestClient\bin\Debug\IService.dll.config
+C:\Remote Dep Analyzer\RemoteDepAnalyzer\TestClient\bin\Debug\TestUtilities.pdb
+C:\Remote Dep Analyzer\RemoteDepAnalyzer\TestClient\bin\Debug\TestUtilities.exe.config
+C:\Remote Dep Analyzer\RemoteDepAnalyzer\TestClient\obj\Debug\TestClient.csprojAssemblyReference.cache
+C:\Remote Dep Analyzer\RemoteDepAnalyzer\TestClient\obj\Debug\TestClient.csproj.CoreCompileInputs.cache
+C:\Remote Dep Analyzer\RemoteDepAnalyzer\TestClient\obj\Debug\TestClient.csproj.CopyComplete
+C:\Remote Dep Analyzer\RemoteDepAnalyzer\TestClient\obj\Debug\TestClient.dll
+C:\Remote Dep Analyzer\RemoteDepAnalyzer\TestClient\obj\Debug\TestClient.pdb
+C:\Users\Yilin Cui\Desktop\RemoteDepAnalyzer\RemoteDepAnalyzer\TestClient\bin\Debug\TestClient.dll.config
+C:\Users\Yilin Cui\Desktop\RemoteDepAnalyzer\RemoteDepAnalyzer\TestClient\bin\Debug\TestClient.dll
+C:\Users\Yilin Cui\Desktop\RemoteDepAnalyzer\RemoteDepAnalyzer\TestClient\bin\Debug\TestClient.pdb
+C:\Users\Yilin Cui\Desktop\RemoteDepAnalyzer\RemoteDepAnalyzer\TestClient\bin\Debug\IService.dll
+C:\Users\Yilin Cui\Desktop\RemoteDepAnalyzer\RemoteDepAnalyzer\TestClient\bin\Debug\TestUtilities.exe
+C:\Users\Yilin Cui\Desktop\RemoteDepAnalyzer\RemoteDepAnalyzer\TestClient\bin\Debug\IService.pdb
+C:\Users\Yilin Cui\Desktop\RemoteDepAnalyzer\RemoteDepAnalyzer\TestClient\bin\Debug\IService.dll.config
+C:\Users\Yilin Cui\Desktop\RemoteDepAnalyzer\RemoteDepAnalyzer\TestClient\bin\Debug\TestUtilities.pdb
+C:\Users\Yilin Cui\Desktop\RemoteDepAnalyzer\RemoteDepAnalyzer\TestClient\bin\Debug\TestUtilities.exe.config
+C:\Users\Yilin Cui\Desktop\RemoteDepAnalyzer\RemoteDepAnalyzer\TestClient\obj\Debug\TestClient.csprojAssemblyReference.cache
+C:\Users\Yilin Cui\Desktop\RemoteDepAnalyzer\RemoteDepAnalyzer\TestClient\obj\Debug\TestClient.csproj.CoreCompileInputs.cache
+C:\Users\Yilin Cui\Desktop\RemoteDepAnalyzer\RemoteDepAnalyzer\TestClient\obj\Debug\TestClient.csproj.CopyComplete
+C:\Users\Yilin Cui\Desktop\RemoteDepAnalyzer\RemoteDepAnalyzer\TestClient\obj\Debug\TestClient.dll
+C:\Users\Yilin Cui\Desktop\RemoteDepAnalyzer\RemoteDepAnalyzer\TestClient\obj\Debug\TestClient.pdb
